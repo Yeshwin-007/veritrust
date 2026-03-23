@@ -1,2 +1,1 @@
 # veritrust
-VERITRUST
